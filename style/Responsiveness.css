@@ -1,0 +1,25 @@
+.mainbox{
+	width: 700px;
+	margin: 20px auto;
+}
+
+@media (max-width: 960px){
+	/*for a screen <960px, this css will be read*/
+	.mainbox{
+		width: 700px;
+	}
+}
+@media (max-width: 720px){
+	/*for a screen <720px, this css will be read*/
+	.mainbox{
+		width: 500px;
+		}
+}
+@media (max-width: 540px){
+	/*for a screen <540px, this css will be read*/
+	.mainbox{
+		width: 300px;
+		}
+}
+}
+

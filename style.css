@@ -1,0 +1,46 @@
+/*import card style file*/
+@import url("style/card.css");
+
+/*import font style file*/
+@import url("style/font-style.css");
+
+/*import diapo style file*/
+@import url("style/diaporama.css");
+
+/*import hypertext style file*/
+@import url("style/hypertextlink.css");
+
+/*import social media icons style file*/
+@import url("style/socialmediaicon.css");
+
+/*import responsiveness style file*/
+@import url("style/Responsiveness.css");
+
+body{
+text-align:center;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+ padding: 0.2px 0;
+}
+
+.pp{
+	border-radius:50%;
+	border-width: 100px;
+}
+
+
+
+#lineargrad{
+	background-image: linear-gradient(rgba(0,0,0,120),rgba(0,0,0,0.34)), url(image/background.jpg);
+	background-size: 100%;
+	background-position: center;
+	color: white;
+}
+
+
+
+
+	

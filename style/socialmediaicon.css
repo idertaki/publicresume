@@ -1,0 +1,10 @@
+.iconlist{
+	display: inline-block;	
+	font-size: 48px;
+	color:white;
+	list-style: none;
+	text-decoration: none;
+}
+i{
+	color:white;
+}
