@@ -4,9 +4,6 @@
 /*import font style file*/
 @import url("style/font-style.css");
 
-/*import diapo style file*/
-@import url("style/diaporama.css");
-
 /*import hypertext style file*/
 @import url("style/hypertextlink.css");
 
@@ -15,6 +12,9 @@
 
 /*import responsiveness style file*/
 @import url("style/Responsiveness.css");
+
+/*import diapo style file*/
+@import url("style/diaporama.css");
 
 body{
 text-align:center;
